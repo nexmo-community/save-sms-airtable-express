@@ -14,8 +14,10 @@ const nexmo = new Nexmo({
     privateKey: './private.key'
 })
 
-app.post('/inbound', async (req, res) => {
+app.post('/inbound', (req, res) => {
     const { msisdn, text } = req.body;
+
+    console.log(JSON.stringify(req.body));
 
     base('Messages').select({
         filterByFormula: `Number=${msisdn}`
@@ -53,8 +55,6 @@ app.post('/inbound', async (req, res) => {
             res.status(200).end();
         })
     }
-
-    res.status(200).end();
 })
 
 app.listen(3000);
