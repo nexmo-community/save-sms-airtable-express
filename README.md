@@ -1,12 +1,12 @@
-# Log Received SMS Messages with Airtable and Node.js
+# Save Received SMS Messages with Airtable and Node.js
 
 Express.js application to log incoming SMS messages via the Nexmo Messages API to an Airtable base.
 
-<!-- For more detail see the accompanying blog post at: [#]()-->
+For more detail see the accompanying blog post at: <https://nexmo.com/blog/save-sms-airtable-node>
 
 ## Welcome to Nexmo
 
-If you're new to Nexmo, you can [sign up for a Nexmo account](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=airtable-sms-logging-express) and get some free credit to get you started.\
+If you're new to Nexmo, you can [sign up for a Nexmo account](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=airtable-sms-logging-express) and get some free credit to get you started.
 
 ## Prerequisites
 
