@@ -2,7 +2,7 @@
 
 Express.js application to log incoming SMS messages via the Nexmo Messages API to an Airtable base.
 
-For more detail see the accompanying blog post at: <https://nexmo.com/blog/save-sms-airtable-node>
+<!--For more detail see the accompanying blog post at: <https://nexmo.com/blog/save-sms-airtable-node>-->
 
 ## Welcome to Nexmo
 
