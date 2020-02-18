@@ -15,7 +15,6 @@ const nexmo = new Nexmo({
 })
 
 app.post('/inbound', (req, res) => {
-    const { msisdn, text } = req.body;
 
     console.log(JSON.stringify(req.body));
 
