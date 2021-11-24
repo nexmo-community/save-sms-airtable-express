@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [devrel@nexmo.com][devrel]. All
+reported by contacting the project team at [devrel@vonage.com][devrel]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -77,4 +77,4 @@ For answers to common questions about this code of conduct, see
 [cchomepage]: https://www.contributor-covenant.org "Contributor Covenant"
 [ccfaq]: https://www.contributor-covenant.org/faq "Contributor Covenant FAQ"
 
-[devrel]: devrel@nexmo.com "DevRel at Nexmo dot com"
+[devrel]: devrel@vonage.com "DevRel at Vonage dot com"

@@ -92,12 +92,12 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 # I don't want to read this whole thing I just have a question!!!
 
-You can join the Nexmo Community Slack for any questions you might have:
+You can join the Vonage Community Slack for any questions you might have:
 
 * [Contact our Developer Relations Team][community]
 * [Reach out on Twitter][twitter]
     * This Twitter is monitored by our Developer Relations team, but not 24/7 &mdash; please be patient!
-* [Join the Nexmo Community Slack][slack]
+* [Join the Vonage Community Slack][slack]
     * Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
     * Use the `#general` channel for general questions or discussion
     * Use the `#status` channel for receiving updates on our service status
@@ -105,7 +105,7 @@ You can join the Nexmo Community Slack for any questions you might have:
 
 Alternatively, you can raise an issue on the project.
 
-[beginner]:https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Abeginner+label%3Ahelp-wanted+user%3Anexmo-community+sort%3Acomments-desc
+[beginner]:https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Abeginner+label%3Ahelp-wanted+user%3Avonage-community+sort%3Acomments-desc
 [help-wanted]:https://github.com/search?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted+user%3Anexmo-community+sort%3Acomments-desc+-label%3Abeginner
 
 [contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
@@ -115,10 +115,10 @@ Alternatively, you can raise an issue on the project.
 [license]: LICENSE "MIT License"
 [pullrequest]: PULL_REQUEST_TEMPLATE.md "Pull Request template"
 
-[community]: https://developer.nexmo.com/community "Nexmo Community"
+[community]: https://developer.vonage.com/community "Vonage Community"
 [signup]: https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=phazonoverload
-[slack]: https://developer.nexmo.com/community/slack "Nexmo Community Slack"
-[twitter]: https://twitter.com/NexmoDev "NexmoDev on Twitter"
+[slack]: https://developer.vonage.com/community/slack "Vonage Community Slack"
+[twitter]: https://twitter.com/VonageDev "VonageDev on Twitter"
 
 [bugreport]: ./../../issues/new?assignees=&labels=&template=bug_report.md&title= "Bug Report Template"
 [featurerequest]: ./../../issues/new?assignees=&labels=&template=feature_request.md&title= "Enhancement Suggestion Template"

@@ -1,4 +1,6 @@
 *.key
 node_modules
+.vonage-app
 .nexmo-app
 config.json
+vonage_app.json
