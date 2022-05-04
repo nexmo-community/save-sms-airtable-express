@@ -15,11 +15,11 @@ const vonage = new Vonage({
 })
 
 app.post('/inbound', (req, res) => {
-
+    const { from, text } = req.body;
     console.log(JSON.stringify(req.body));
 
     base('Messages').select({
-        filterByFormula: `Number=${req.body.from}`
+        filterByFormula: `Number=${from}`
     }).eachPage(records => {
         if (records.length == 0) {
             createUser(text, req.body.from)
